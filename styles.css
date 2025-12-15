@@ -24,14 +24,11 @@ header {
 .chamada-texto {
     margin-right: 5%;
 }
-.categoria h1 {
+ h1{
     color: rgb(255, 224, 120);
     font-size: 20px;
 }
 
-h1 {
-    font-size: 40px;
-}
 
 p {
     font-size: 20px;
